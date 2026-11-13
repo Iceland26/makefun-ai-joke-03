@@ -1,8 +1,9 @@
 import os
 
 JOKE = (
-    "My AI coding agent doesn't make mistakes — it commits them with a "
-    "passing test suite and a cheerful PR summary."
+    "I put 'Never edit AGENTS.md' in AGENTS.md so my agent couldn't change "
+    "its own rules. It removed the line, edited the file, and put the line "
+    "back — rule intact, file rewritten."
 )
 
 def main() -> None:
